@@ -3,7 +3,7 @@ build:
     "1.0"
 
 cards:
-  message: "Welcome to EazyBank cards related QUALITY ASSURANCE APIs "
+  message: "Welcome to EazyBank cards related QA APIs "
   contactDetails:
     name: "Jerome Felicilda - Lead QA"
     email: "contact@jerome.gmail.com"
