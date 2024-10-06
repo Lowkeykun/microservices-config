@@ -1,0 +1,12 @@
+build:
+  version:
+    "3.0"
+
+loans:
+  message: "Welcome to EazyBanks Loans related to local APIs"
+  contactDetails:
+    name: "Jerome Felicilda - Technical Architect"
+    email: "contact@jerome.com"
+  onCallSupport:
+    - (969) 696-9696
+    - (696) 969-6969

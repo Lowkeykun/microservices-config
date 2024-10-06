@@ -1,0 +1,12 @@
+build:
+  version:
+    "3.0"
+
+cards:
+  message: "Welcome to EazyBank cards related local APIs "
+  contactDetails:
+    name: "Jerome Felicilda - Technical Architect"
+    email: "contact@jerome.gmail.com"
+  onCallSupport:
+    - (111) 699-6699
+    - (222) 996-9966
