@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to EazyBank accounts related PROD APIs "
   contactDetails:
     name: "Jerome Felicilda - Product Owner"
-    email: "contact@jerome.com"
+    email: "{cipher}f7f3d684f534a06cd453b6e4325ea2a3f9a5224fc21bdd06a2819115a772012042a4567c5c23c2b696340ad88b8a0b75"
   onCallSupport:
     - (777) 555-1234
     - (777) 523-1345
