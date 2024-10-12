@@ -3,7 +3,7 @@ build:
     "2.0"
 
 cards:
-  message: "Welcome to EazyBank cards related PROD APIs "
+  message: "Welcome to EazyBank cards related webhook APIs "
   contactDetails:
     name: "Jerome Felicilda - Product Owner"
     email: "contact@jerome.gmail.com"
