@@ -3,7 +3,7 @@ build:
     "2.0"
 
 loans:
-  message: "Welcome to EazyBanks Loans related to webhook APIs"
+  message: "Welcome to EazyBanks Loans related to webhook tester APIs"
   contactDetails:
     name: "Jerome Felicilda - Product Owner"
     email: "contact@jerome.com"
